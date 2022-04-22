@@ -1,6 +1,6 @@
 # Japanese vocabulary
 
-**suppin**: no make up *すっぴん*
+**suppin**: no make up *すっぴん* <br/>
 **kekka**: result *けっか*
 **massugu**: straight　*まっすぐ*
 **kekkon**: marriage　*けっこん*
@@ -27,7 +27,7 @@
 **itsukara**:　*いつから*
 **hatten**:　*はってん*
 **nikka**: daily routine　*にっか*
-**dakko**:　*だっこ*　**だっこ**
+**dakko**:　*だっこ*
 **batten**:　*ばってん*
 **ikko**:　*いっこ*
 **rakko**:　*らっこ*
@@ -37,7 +37,7 @@
 **happi**: happi coat　*はっぴ*
 **shikkari**:　*しっかり*
 **kotteri**:　*こってり*
-**hatsuhi**:　**はつひ**　
+**hatsuhi**:　*はつひ*
 **shinkon**:　
 **zokkon**:
 **bassui**: excerpt (Un extrait)
