@@ -5,7 +5,6 @@
 **massugu**: straight　*まっすぐ* <br/>
 **kekkon**: marriage　*けっこん* <br/>
 **kitte**: stamp　*きって* <br/>
-
 **oto**: sound　*おと* <br/>
 **otto**: husband　*おっと* <br/>
 **kissa**: tea room　*きっさ* <br/>
@@ -13,7 +12,6 @@
 **nikki**: diary　*にっき* <br/>
 **shusse**: promotion　*しゅっせ* <br/>
 **kippu**: ticket　*きっぷ* <br/>
-
 **yokka**:　*よっか* <br/>
 **gappi**:　*がっぴ* <br/>
 **dappi**:　*だっぴ* <br/>
@@ -61,7 +59,7 @@
 **hossaku**: *ほっさく* <br/>
 **ichibun**: *いちぶん* <br/>
 **hasamu**: *はさむ* <br/>
-**ippun**: one minute *いっぷん*　*一分*　<br/>　
+**ippun**: one minute *いっぷん* or *一分*　<br/>
 **ippuku**: one breath *いっぷく*　<br/>
 **jissaini**: actually *じっさいに*　<br/>
 **hissatsu**: *ひっさつ* <br/>
@@ -90,45 +88,50 @@
 **mata**: again *また*　<br/>
 **matta**: waited *まった*　<br/>
 **iku**: *いく* <br/>
-**ikku**: phrase <br/>
-**hope**: ** <br/>
-**hoppe**: cheek <br/>
-**shiso**: ** <br/>
-**shisso**: simple <br/>
-**wakizashi**: short sword <br/>
-**zashi**: ** <br/>
-**zasshi**: magazine <br/>
-**jissenteki**: practical <br/>
-**kassai**: applause <br/>
-**tatta**: only <br/>
-**kossori**: secretly <br/>
-
-**ake**: daybreak <br/>
-**akke**: shock <br/>
-**rippa**: splendid <br/>
-**ippo**: step <br/>
-**ichi**: one <br/>
-**icchi**: coincide <br/>
-**mitsu**: honey <br/>
-**mittsu**: three [smth] <br/>
-**zettai**: definitely <br/>
-**bassoku** penalty <br/>
-**bikkuri**: surprised <br/>
-**happa**: leaf <br/>
-**rappa**: trumpet <br/>
-**kuttsuku**: stick to <br/>
-**shippo**: tail <br/>
-**shicchi**: wetland <br/>
-**toi**: question <br/>
-**tooi**: far <br/>
-**okaasan**: mother <br/>
-**oneesan**: older sister <br/>
-**oniisan**: older brother <br/>
-**shuumatsu**: weekend <br/>
-**sensei**: teacher <br/>
-**gakkou**: school <br/>
-
-**gacchiri**: robust <br/>
-**shippai**: failure <br/>
-**shuppatsu**: departure <br/>
-**obaasan**:** <br/>
+**ikku**: phrase *いっく*　<br/>
+**hope**: *ほぺ* <br/>
+**hoppe**: cheek *ほっぺ*　<br/>
+**shiso**: *しそ* <br/>
+**shisso**: simple *しっそ*　<br/>
+**wakizashi**: short sword *わきざし*　<br/>
+**zashi**: *ざし* <br/>
+**zasshi**: magazine *ざっし*　<br/>
+**jissenteki**: practical *じっせんてき*　<br/>
+**kassai**: applause *かっさい*　<br/>
+**tatta**: only *たった*　<br/>
+**kossori**: secretly *こっそり*　<br/>
+**ake**: daybreak *あけ*　<br/>
+**akke**: shock *あっけ*　<br/>
+**rippa**: splendid *りっぱ*　<br/>
+**ippo**: step *いっぽ*　<br/>
+**ichi**: one *いち*　<br/>
+**icchi**: coincide *いっち*　<br/>
+**mitsu**: honey *みつ*　<br/>
+**mittsu**: three [smth] *みっつ*　<br/>
+**zettai**: definitely *ぜったい*　<br/>
+**bassoku** penalty *ばっそく*　<br/>
+**bikkuri**: surprised *びっくり*　<br/>
+**happa**: leaf *はっぱ*　<br/>
+**rappa**: trumpet *らっぱ*　<br/>
+**kuttsuku**: stick to *くっつく*　<br/>
+**shippo**: tail *しっぽ*　<br/>
+**shicchi**: wetland *しっち*　<br/>
+**toi**: question *とい*　<br/>
+**tooi**: far *とおい*　<br/>
+**okaasan**: mother *おかあさん*　<br/>
+**otousan**: father *おとうさん*　<br/>
+**oneesan**: older sister *おねえさん*　<br/>
+**oniisan**: older brother *おにいさん*　<br/>
+**obaasan**: grand mother *おばあさん* <br/>
+**ojiisan**: grand father *おじいさｎ* <br/>
+**shuumatsu**: weekend *しゅうまつ*　<br/>
+**sensei**: teacher *せんせい* or *先生*　<br/>
+**gakkou**: school *がっこう*　<br/>
+**gacchiri**: robust *がっちり*　<br/>
+**shippai**: failure *しっぱい*　<br/>
+**shuppatsu**: departure *しゅっぱつ*　<br/>
+**kyou**: today *きょう* <br/>
+**eigo**: english *えいご* or *英語* <br/>
+**imouto**: sister *いもうと* <br/>
+**konshuu**: this week *こんしゅう* <br/>
+**chiisai**: small *ちいさい* <br/>
