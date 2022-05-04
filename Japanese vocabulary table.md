@@ -109,7 +109,7 @@
 |**ichi**| one | *いち*　<br/>
 |**icchi**| coincide | *いっち*　<br/>
 |**mitsu**| honey | *みつ*　<br/>
-|**mittsu**| three [smth] | *みっつ*　<br/>
+|**mittsu**| three (smth) | *みっつ*　<br/>
 |**zettai**| definitely | *ぜったい*　<br/>
 |**bassoku** | penalty | *ばっそく*　<br/>
 |**bikkuri**| surprised | *びっくり*　<br/>
@@ -137,3 +137,27 @@
 |**imouto**| sister | *いもうと* <br/>
 |**konshuu**| this week | *こんしゅう* <br/>
 |**chiisai**| small | *ちいさい* <br/>
+|**gakusei**| student | *がくせい* or | *学生* <br/>
+|**eiga**| movie | *えいが* <br/>
+|**ohayou**| good morning | *おはよう* <br/>
+|**gyuunyuu**| milk | *ぎゅうにゅう* <br/>
+|**atarashii**| new | *あたらし* <br/>
+|**detekuru**| (to) appear | *でてくる* <br/>
+|**hoshii**| (to) want | *ほしい* <br/>
+|**hitsuyou**| (to) need | *ひつよう* <br/>
+|**chigau yo**| are different | *ちがうよ* <br/>
+|**kore nara**| so then | *これなら* <br/>
+|**kono**| this | *この* <br/>
+|**geemu**| game | *げえむ* <br/>
+|**katte kureru**| (to) buy | *買ってくれる* <br/>
+|**dame da yo**| no | *ダメだよ* <br/>
+|**uchi ni**| at home | *うちに* <br/>
+|**takusan**| a lot (of) | *たくさん* <br/>
+|**bideo geemu**| video games | *ビデオ　ゲえむ* <br/>
+|**ga aru**| there are | *がある* <br/>
+|**desho**| right | *でしょ* <br/>
+|**ie**| house | *いえ* <br/>
+|**korekara**| now | *これから* <br/>
+|**bokutachi wa**| we | *ぼくたち* <br/>
+|**tsumaranai yo**| (to be) boring | *つまらないよ* <br/>
+|**shiai**| match | *しあい* <br/>
