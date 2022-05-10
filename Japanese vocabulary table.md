@@ -161,3 +161,9 @@
 |**bokutachi wa**| we | *ぼくたち* <br/>
 |**tsumaranai yo**| (to be) boring | *つまらないよ* <br/>
 |**shiai**| match | *しあい* <br/>
+|**gogo**| afternoon | *午後* <br/>
+|**kaisha**| company | *会社* <br/>
+|**ikimasu**| I (will) go | *行きます* <br/>
+|**nemasu**| (go to) sleep | *寝ます* <br/>
+|**gakkou**| school | *学校* <br/>
+|**goro**| around | *ごろ* <br/>
