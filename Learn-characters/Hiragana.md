@@ -1,34 +1,40 @@
-**River**: kawa
+**River**: kawa かわ
 
-**Young**: wakai
+**Young**: wakai　わかい
 
-**Close**: chikai
+**Close**: chikai　ちかい
 
-**Tomorrow**: ashita
+**Tomorrow**: ashita　あした
 
-**Rainy season**: tsuyu
+**Rainy season**: tsuyu　つゆ
 
-**Itchi**: kayui
+**Itchi**: kayui　かゆい
 
-**Spicy**: karai
+**Spicy**: karai　からい
 
-**Hot**: atsui
+**Hot**: atsui　あつい
 
-**Temple**: tera
+**Temple**: tera　てら
 
-**Festival**: matsuri
+**Festival**: matsuri　まつり
 
-**Wig**: katsura
+**Wig**: katsura　かつら
 
-**Opposite**: hantai
+**Opposite**: hantai　はんたい
 
-**World**: sekai
+**World**: sekai　せかい
 
-**Medecine**: kusuri
+**Medecine**: kusuri　くすり
 
-**Back**: senaka
+**Back**: senaka　せなか
 
-**West**: nishi
+**West**: nishi　にし
 
-**Fight**: kenka
+**Fight**: kenka　けんか
+
+**Brown**: chairo　ちゃいろ
+
+**Pumpkin**: kabocha　かぼしゃ
+
+**Daughter**: musume　むすめ
 
