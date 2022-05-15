@@ -226,3 +226,69 @@
 
 **Sample**: sanpuru　サンプル
 
+**Camp**: kyanpu キャンプ
+
+**Shirt**: shatsu　シャツ
+
+**Happiness**: hapinesu　ハピネス
+
+**Paint**: penki　ペンキ
+
+**Portugal**: porutogaru　ポルトガル
+
+**Program**: puroguramu　プログラム
+
+**Chance**: chansu　チャンス
+
+**Career**: kyaria　キャリア
+
+**Shanghai**: shanhai　シャンハイ
+
+**Marshmallow**: mashumaro　マシュマロ
+
+**Nuance**: nyuansu　ニュアンス
+
+**Channel**: chaneru　チャネル
+
+**Cabbage**: kyabetsu　キャベツ
+
+**Campus**: kyanpasu　キャンパス
+
+**Challenge**: charenji　チャレンジ
+
+**Sleeping bag**: shurafu シュラフ
+
+**Manicure**: manikyua　マニキュア
+
+**Natural**: nachuraru　ナチュラル
+
+**Munich**: myunhen　ミュンヘン
+
+**Amateur**: amachua　アマチュア
+
+**Chopin**: shopan　ショパン
+
+**Chocolate**: choko　チョコ
+
+**Sure**: shua　シュア
+
+**Manual**: manyuaru　マニュアル
+
+**Screenshot**: sukusho　スクショ
+
+**Poncho**: poncho　ポンチョ
+
+**Condo**: manshon マンション
+
+**Scissors**: choki　チョキ
+
+**Collection**: korekushon　コレクション
+
+**Gag**: gyagu　ギャグ
+
+**Jam**: jamu　ジャム
+
+**Mjölnir**: myoruniru　ミョルニル
+
+**Choice**: choisu　チョイス
+
