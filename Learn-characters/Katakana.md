@@ -292,3 +292,105 @@
 
 **Choice**: choisu　チョイス
 
+**Jump**: janpu
+
+**Jumbo**: janbo
+
+**Jakarta**: jakaruta
+
+**Pure**: pyua
+
+**Junior**: junia
+
+**Genre**: janru
+
+**Gathering**: gyazaringu
+
+**Junction**: jankushon
+
+**Dugong**: jugon
+
+**Gorge**: goruju
+
+**Nebula**: nebyura
+
+**Casual**: kajuaru
+
+**Goldfish**: kingyo
+
+**Jogging**: jogingu
+
+**Julia**: juria
+
+**Visual**: bijuaru
+
+**John**: jon
+
+**Vision**: bijon
+
+**Enjoy**: enjoi
+
+**Mecca**: mekka
+
+**Lesson**: ressun
+
+**Topping**: toppingu
+
+**Sea otter**: rakko
+
+**Dungeon**: danjon
+
+**Joint**: jointo
+
+**Pyongyang**: pyonyan
+
+**Lotteria**: rotte
+
+**Narwhal**: ikkaku
+
+**Mississippi**: mishishippi
+
+**Impetus**: kikkake
+
+**Shipping**: shippingu
+
+**Pop**: poppu
+
+**Deck**: dekki
+
+**Instant messenger**: messe
+
+**Melissa**: merissa
+
+**Morocco**: morokko
+
+**Wrapping**: rappingu
+
+**Pogo stick**: hoppingu
+
+**Set**: setto
+
+**Robot**: robotto
+
+**Magic wand**: sutekki
+
+**Pet**: petto
+
+**Clarissa**: kurarissa
+
+**North Pole**: hokkyoku
+
+**Copy paste**: kopipe
+
+**Hot dog bun**: koppepan
+
+**Grasshopper**: batta
+
+**Picnic**: pikunikku
+
+**Espresso**: esupuresso
+
+**Sandbank**: sashi
+
+**Sash**: sasshi
+
