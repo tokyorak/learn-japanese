@@ -1,6 +1,6 @@
 # Japanese vocabulary
 
-**suppin**: no make up *すっぴん* <br/>
+**suppin**: no make up *すっぴん* 生、
 **kekka**: result *けっか* <br/>
 **massugu**: straight　*まっすぐ* <br/>
 **kekkon**: marriage　*けっこん* <br/>

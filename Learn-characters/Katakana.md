@@ -270,6 +270,8 @@
 
 **Chocolate**: choko　チョコ
 
+**Chocolate**: chokoreeto チョコレート
+
 **Sure**: shua　シュア
 
 **Manual**: manyuaru　マニュアル
@@ -393,4 +395,116 @@
 **Sandbank**: sashi
 
 **Sash**: sasshi
+
+**Surprise**: bikkuri
+
+**Stealthily**: kossori
+
+**Flash**: furasshu
+
+**Topic**: topi
+
+**Erratic**: toppi
+
+**Trumpet**: rappa
+
+**Topping**: toppingu
+
+**Slip-on**: surippon
+
+**Nuts**: nattsu
+
+**Match**: macchi
+
+**Jacket**: yakke
+
+**Necklace**: nekkuresu
+
+**Regatta**: regatta
+
+**Mission**: misshon
+
+**Aggressive**: aguresshibu
+
+**Guts**: gattsu
+
+**Coconut**: kokonattsu
+
+**Nickel**: nikkeru
+
+**Kitchen**: kicchin
+
+**Softshell turtle**: suppon
+
+**Hitchhike**: hicchihaiku
+
+**Caddo**: kado
+
+**Card**: kaado
+
+**Cream**: kuriimu
+
+**soup**: suupu
+
+**course**: koosu
+
+**pace**: peesu
+
+**Slipper**: surippa
+
+**Spirits**: supirittsu
+
+**Supermarket**: suupaa
+
+**Harmony**: haamonii
+
+**Category**: kategorii カテゴリー
+
+**Space**: supeesu　スぺエス
+
+**Department store**: depaato
+
+**Gray**: guree　グレー
+
+**Sausage**: sooseeji
+
+**Cake**: keeki
+
+**suit**: suutsu
+
+**Ramen** raamen
+
+**Skate**: sukeeto
+
+**Noodle**: nuudoru
+
+**Skirt**: sukaato
+
+**Group**: guruupu
+
+**Steak**: suteeki
+
+**Crepe**: kureepu
+
+**Coffee**: koohii
+
+**Partner**: paatonaa
+
+**Garage**: gareeji
+
+**Monorail**: monoreeru
+
+**Mayonnaise**: mayoneezu
+
+**Regular**: regyuraa レギュラー
+
+**Snickers**: suniikaa
+
+**Johnny**: jaanii
+
+**Taxi**: takushii
+
+**Balcony**: barukonii
+
+**Austria**: oosutoria
 
