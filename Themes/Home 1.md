@@ -61,7 +61,7 @@ Below is a table for `羽`, the counting word introduced in this lesson. `羽` i
 **Sofa**
 : sofaa　ソファー
 **This is my sofa**: kore ha watashi no sofaa desu
-これは　私の　ソファー　です
+これは　私　の　ソファー　です
 
 **Desk**
 : tsukue　机
@@ -78,6 +78,8 @@ Below is a table for `羽`, the counting word introduced in this lesson. `羽` i
 
 **Kitten, little cat**
 : koneko 子猫
+**There are puppies and kittens**: koinu to koneko ga imasu
+子犬　と　子猫　が　います
 
 **Over Here**
 : koko
@@ -107,8 +109,8 @@ Below is a table for `羽`, the counting word introduced in this lesson. `羽` i
 
 **Table**
 : teeburu テーブル
-**Where is the table?**: teeburu ha doko desuka
-テーブル　は　どこ　ですか
+**Where is the table?**: teeburu ha doko desuka (teeburu ha doko ni arimasuka)
+テーブル　は　どこ　ですか　（てーブル　は　どこ　に　ありますか）
 
 **Camera**
 : kamera カメラ
@@ -131,6 +133,10 @@ Below is a table for `羽`, the counting word introduced in this lesson. `羽` i
 
 **Bath/Bathtub**
 : furo 風呂
+**There is a bathtub**: o furo ga arimasu
+お風呂　が　あります
+**It is not a bathtub** o furo deha arimasen
+お風呂　では　ありません
 
 **Window**
 : mado 窓
