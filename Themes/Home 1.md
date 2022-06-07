@@ -152,3 +152,4 @@ Below is a table for `羽`, the counting word introduced in this lesson. `羽` i
 学校　は　日本　に　あります
 **There is no pet**: petto ha arimasen　ペット　は　ありません
 **I don't have a pet**: petto ha imasen ペット　は　いません
+**Coffee here is delicious**: koko ha koohii ga oishii desu ここ　は　コーヒー　が　おいしい　です

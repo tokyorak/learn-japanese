@@ -36,3 +36,26 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | 何 | What | なに |  |
 | 名 | Name | な | めい、みょう |
 | 前 | Before | まえ | ぜん |
+
+## Vocabulary
+
+**Name**
+: namae 名前　なまえ
+**My name is Honda Sakura**: watashi no namae ha honda sakura desu　私　の　名前　は　本田　さくら　です
+**Hello, what is your name**: konichiwa o namae ha (nandesuka) こんにちは　お　名前　は　（何ですか）
+
+**Also**
+: mo も
+**I'm also american**: watashi mo amerikajin desu 私　も　アメリカ人　です
+
+**Speak**
+: hanase 話せ　はなせ
+**Maria can speak Spanish**: maria san ha supeingo ga hanasemasu マリアさん　は　スペイン語　が　話せます
+
+**Good**
+: genki 元気　げんき
+
+**Yes**
+: ai, ee あい　ええ
+
+

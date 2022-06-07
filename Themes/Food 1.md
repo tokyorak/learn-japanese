@@ -28,3 +28,21 @@ Below is a table of the two kanji that are introduced in this topic, comple with
 | --- | --- | --- | --- |
 | 水 | Water | みず | すい |
 | 食 | Eat | た.べる | しょく |
+
+## Vocabulary
+
+**That one and that one, please**: are to are wo kudasai あれ　と　あれ　を　ください
+
+**Well then, thank you for the meal**: jaa, gochisousama deshita じゃあ　ごちそうさま　でした
+
+**Meat**
+: niku 肉
+**the meat is delicious**: niku ha oishii desu 肉は　おいしい　です
+
+**Fish**
+: sakana　魚
+
+**Vegetables**
+: yasai　野菜　
+
+**What is that**: sore ha nandesuka それ　は　何ですか
