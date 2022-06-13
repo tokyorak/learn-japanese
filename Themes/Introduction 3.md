@@ -44,7 +44,7 @@ This lesson introduces two of the most common sentence-ending particles, `ね` a
 **I'm sixteen**: juu rokusai desu 十六歳　です
 **I'm eighteen**: juu hassai desu 十八歳　です (hassai not hachisai?)
 
-**Foreign (Exchange)**
+**Foreign (Exchange school)**
 : ryuugaku 留学　りゅうがく
 **Are you a foreign exchange student**: ryuugakusei desuka 留学生　ですか
 
@@ -58,7 +58,7 @@ This lesson introduces two of the most common sentence-ending particles, `ね` a
 **That's right, you know**: soudesuyo そうですよ
 
 **Sure thing**
-: ii yo いいよ
+: ii yo いいよ, mochiron desu もちろんです
 
 **This is fine**
 : kore ha ii desuyo これ　は　いいですよ
